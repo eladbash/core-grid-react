@@ -1,6 +1,6 @@
 # core-grid-react
 
-> Simple and fast grod system for react applications
+> Simple and fast grid system for react applications
 
 [![NPM](https://img.shields.io/npm/v/core-grid-react.svg)](https://www.npmjs.com/package/core-grid-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
